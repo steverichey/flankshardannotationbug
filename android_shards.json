@@ -1,0 +1,12 @@
+{
+  "matrix-0": {
+    "app": "/Users/steve/Documents/GitHub/flankshardannotationbug/app/build/outputs/apk/debug/app-debug.apk",
+    "test": "/Users/steve/Documents/GitHub/flankshardannotationbug/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk",
+    "shards": {
+      "shard-0": [
+        "class flank.shard.annotationbug.InstrumentedAnnotatedTest#useAppContext"
+      ]
+    },
+    "junit-ignored": []
+  }
+}
